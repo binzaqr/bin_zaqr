@@ -1,0 +1,20 @@
+{
+  "name": "أملاك بن زقر",
+  "short_name": "بن زقر",
+  "description": "نظام متابعة الإيجارات والإيصالات والمطالبات.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a0f1e",
+  "theme_color": "#0a0f1e",
+  "icons": [
+    {
+      "src": "./bnzaqr-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
